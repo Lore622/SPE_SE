@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Studio SPE e SE"
@@ -9,7 +10,7 @@ website:
         file: index.qmd
       - text: "Autostima"
         file: autostima.qmd
-      - text: "Correlazioni"
+      - text: "Considerazioni"
         file: third_page.qmd
 
 format:
