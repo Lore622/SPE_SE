@@ -7,7 +7,7 @@ format: html
 
 Nel presente studio abbiamo replicato l'effetto di self-prioritization (SPE), un effetto ampiamente consolidato in letteratura, evidenziando tempi di reazione significativamente più rapidi per i trial matching associati al Sé rispetto a quelli associati allo sconosciuto. I risultati del t-test confermano che la differenza media tra le condizioni è robusta e statisticamente significativa.
 
-Anche le misure di autostima esplicita (RSES) e implicita (SE_IAT, SE_RRT, SE_NLT) hanno mostrato distribuzioni coerenti con la letteratura esistente. Tuttavia, le analisi di correlazione non hanno evidenziato associazioni significative tra le misure di self-esteem (esplicite o implicite) e l'SPE, suggerendo che questi costrutti, sebbene concettualmente collegati, potrebbero avere basi cognitive distinte.
+Anche le misure di autostima esplicita (RSES) e implicita (SE_IAT, SE_RRT, SE_NLT) hanno mostrato distribuzioni coerenti con la letteratura esistente. Tuttavia, le analisi di correlazione non hanno evidenziato associazioni significative tra le misure di self-esteem (esplicite o implicite) e l'SPE, suggerendo che questi costrutti potrebbero avere basi cognitive distinte.
 
 ## Analisi di potenza (modello con 4 predittori)
 
