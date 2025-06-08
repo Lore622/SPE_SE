@@ -11,7 +11,7 @@ website:
       - text: "Autostima"
         file: autostima.qmd
       - text: "Considerazioni"
-        file: third_page.qmd
+        file: considerazioni.qmd
 
 format:
   html:

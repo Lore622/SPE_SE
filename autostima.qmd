@@ -174,5 +174,5 @@ ggplot(df_all, aes(x = SPE, y = SE_IAT)) +
 ## Navigazione
 
 [← Torna alla pagina precedente](index.html)  
-[→ Vai alla pagina successiva](third_page.html)
+[→ Vai alla pagina successiva](considerazioni.html)
 
