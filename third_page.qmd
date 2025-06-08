@@ -95,5 +95,5 @@ plot_finale
 Con una dimensione campionaria attuale di **n = 31**, la probabilità stimata di ottenere effetti statisticamente significativi per tutti e quattro i predittori è pari a **`r round(exact_power_31 * 100, 1)`%**, secondo le simulazioni Monte Carlo effettuate.
 
 
-[← Torna alla pagina precedente](autostima.qmd)
+[← Torna alla pagina precedente](autostima.html)
 
