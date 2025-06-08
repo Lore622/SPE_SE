@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "Studio SPE e SE"
+  navbar:
+    left:
+      - text: "SPE"
+        file: index.qmd
+      - text: "Autostima"
+        file: autostima.qmd
+      - text: "Correlazioni"
+        file: third_page.qmd
+
+format:
+  html:
+    theme: cosmo
+    code-copy: true
+
